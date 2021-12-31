@@ -1,4 +1,6 @@
 # Pennsylvania Trail Locator
+Live Preview: https://techxvee.github.io/Pennsylvania-Trail-Locator/
+
 An interactive terrain web map using Python core concepts such as conditions, loops, functions, and file processing. Used pandas to analyze data and folium to visualize data through a Leaflet map. 
 
 Trails listed are in the Pennsylvania region-only. Each trail is color-coordinated based on its difficulty level. Assessment of difficulty is based on the AllTrails.com rating system. "Green" indicates an easy, beginner level trail, "orange" indicates a moderate, intermediate level trail and "red" indicates a hard, experienced level trail.  
